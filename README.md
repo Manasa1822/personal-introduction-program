@@ -18,3 +18,6 @@ This project is a beginner-friendly Python application that collects user detail
 
 ```bash
 py -3.14 personal_intro.py
+## 📸 Output Screenshot
+
+![Output](output.png)
